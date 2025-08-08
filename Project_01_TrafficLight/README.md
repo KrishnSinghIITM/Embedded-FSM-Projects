@@ -2,13 +2,12 @@
 
 A simple and effective Finite State Machine (FSM) for controlling a traffic light, built for the ESP32.
 
-## 🎥 Live Demo & Video
+## 🎥 Live Demo
 
-* **See it live on Wokwi:** [**Click here to run the simulation**]([https://www.google.com/search?q=https://wokwi.com/projects/your-project-link-here](https://wokwi.com/projects/438742735281832961))
+* **See it live on Wokwi:** [Click here to run the simulation](https://wokwi.com/projects/438742735281832961)
 
-* **Watch the video demo:**
+* **Watch the video demo:** ![Traffic Light Simulation](https://github.com/KrishnSinghIITM/Embedded-FSM-Projects/blob/main/Project_01_TrafficLight/doc/demo.mp4?raw=true)
 
-  *Replace this text with a GIF or a link to your project video.*
 
 ## 🚦 Features
 
