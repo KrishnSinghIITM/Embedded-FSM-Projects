@@ -6,7 +6,7 @@ A simple and effective Finite State Machine (FSM) for controlling a traffic ligh
 
 * **See it live on Wokwi:** [Click here to run the simulation](https://wokwi.com/projects/438742735281832961)
 
-* **Watch the video demo:** ![Traffic Light Simulation](https://github.com/KrishnSinghIITM/Embedded-FSM-Projects/blob/main/Project_01_TrafficLight/doc/demo.mp4?raw=true)
+![Traffic Light Simulation](https://github.com/KrishnSinghIITM/Embedded-FSM-Projects/blob/main/Project_01_TrafficLight/doc/demo.png?raw=true)
 
 
 ## 🚦 Features
