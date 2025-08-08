@@ -4,7 +4,7 @@ A simple and effective Finite State Machine (FSM) for controlling a traffic ligh
 
 ## 🎥 Live Demo & Video
 
-* **See it live on Wokwi:** [**Click here to run the simulation**](https://www.google.com/search?q=https://wokwi.com/projects/your-project-link-here)
+* **See it live on Wokwi:** [**Click here to run the simulation**]([https://www.google.com/search?q=https://wokwi.com/projects/your-project-link-here](https://wokwi.com/projects/438742735281832961))
 
 * **Watch the video demo:**
 
